@@ -4,4 +4,15 @@
 
 Compile Steps:
 
+	gcc q4.c
+
 Output:
+
+Insert string t: 1234567890
+Final string s: 1234
+
+Insert string t: qwerty
+Final string s: qwer
+
+Insert string t: Cooper Union
+Final string s: Coop
