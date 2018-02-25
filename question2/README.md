@@ -4,4 +4,21 @@
 
 Compile Steps:
 
+	gcc q2.c
+
 Output:
+
+Insert string s: 111
+Insert string t: 222
+Final string s: 111
+222
+
+Insert string s: hellothere
+Insert string t: nicetomeetu
+Final string s: hellothere
+nicetomeetu
+
+Insert string s: Cooper Union
+Insert string t: NYU
+Final string s: Cooper Union
+NYU
