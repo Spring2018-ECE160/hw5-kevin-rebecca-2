@@ -4,4 +4,12 @@
 
 Compile Steps:
 
+	gcc q3.c	
+
 Output:
+
+	FLOWER does occur at the end of SUNFLOWER
+	cca does occur at the end of rebecca
+	five does not occur at the end of Happybday
+
+ 
