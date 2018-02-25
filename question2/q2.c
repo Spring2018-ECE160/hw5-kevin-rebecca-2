@@ -6,7 +6,6 @@ void mystrcat(char *s, char *t);
 
 int main(void)
 {
-    int len;
     char s[MAXLINE],t[MAXLINE];
     printf("Insert string s: ");
     input(s,MAXLINE);
